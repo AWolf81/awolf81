@@ -1,8 +1,27 @@
-# About this site
-It is just for learning how github pages are working.
+# awolf81
 
-# What is used for this page?
+> A Vue.js project
 
-- JSPM for package managing
-- Babel for ES6 transpiling
-- AngularJs and Ui.router for the SPA.
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# run unit tests
+npm run unit
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
+```
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
