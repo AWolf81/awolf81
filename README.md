@@ -70,6 +70,4 @@
 
 ---
 
-Credit: [Alexander Wolf](https://github.com/awolf81)
-
 Last Edited on: 10.11.2023
